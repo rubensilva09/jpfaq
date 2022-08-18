@@ -3,19 +3,19 @@
     <file source-language="en" datatype="plaintext" original="messages" date="2016-09-20T12:43:58Z" product-name="jpfaq">
         <header/>
         <body>
-            <trans-unit state="" id="tx_jpfaq_domain_model_question">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question">
                 <source>Question</source>
             </trans-unit>
-            <trans-unit state="" id="tx_jpfaq_domain_model_question.question">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question.question">
                 <source>Question</source>
             </trans-unit>
-            <trans-unit state="" id="tx_jpfaq_domain_model_question.answer">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question.answer">
                 <source>Answer</source>
             </trans-unit>
-            <trans-unit state="" id="tx_jpfaq_domain_model_question.helpfulText">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question.helpfulText">
                 <source>Is this answer helpful?</source>
             </trans-unit>
-            <trans-unit state="" id="tx_jpfaq_domain_model_question.helpful">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question.helpful">
                 <source>Yes</source>
             </trans-unit>
             <trans-unit id="tx_jpfaq_domain_model_question.notHelpful">
