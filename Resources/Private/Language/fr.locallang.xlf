@@ -3,19 +3,19 @@
     <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-09-20T12:43:58Z" product-name="jpfaq">
         <header/>
         <body>
-            <trans-unit id="tx_jpfaq_domain_model_question">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question">
                 <target>Question</target>
             </trans-unit>
-            <trans-unit id="tx_jpfaq_domain_model_question.question">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question.question">
                 <target>Question</target>
             </trans-unit>
-            <trans-unit id="tx_jpfaq_domain_model_question.answer">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question.answer">
                 <target>Résponse</target>
             </trans-unit>
-            <trans-unit id="tx_jpfaq_domain_model_question.categories">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_question.categories">
                 <target>Catégories</target>
             </trans-unit>
-            <trans-unit id="tx_jpfaq_domain_model_category">
+            <trans-unit state="new" id="tx_jpfaq_domain_model_category">
                 <target>Catégorie</target>
             </trans-unit>
             <trans-unit id="tx_jpfaq_domain_model_category.category">
