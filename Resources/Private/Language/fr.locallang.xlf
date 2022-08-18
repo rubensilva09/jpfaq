@@ -4,7 +4,7 @@
         <header/>
         <body>
             <trans-unit state="new" id="tx_jpfaq_domain_model_question">
-                <target>Question</target>
+                <source>Question</source>
             </trans-unit>
             <trans-unit state="new" id="tx_jpfaq_domain_model_question.question">
                 <target>Question</target>
